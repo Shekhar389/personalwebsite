@@ -1,0 +1,92 @@
+h1{
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+   font-size: 25px;
+   color: #66BFBF;
+   font-weight: normal;
+}
+h3
+{
+    color: #11999e;
+}
+hr{
+    border: dotted #Eaf6f6 10px;
+    border-bottom: none;
+    width: 10%;
+}
+a{
+    color: #11999e;
+}
+body{
+    margin: 0px;
+    text-align: center; 
+    font-size: 150%;
+    color: #40514e;
+}
+.top-container {
+    background-color: #E4F9F6;
+   
+    position: relative;
+    
+}
+.middle-container {
+    margin: 100px 0;;
+    
+}
+.bottom-container {
+    background-color: #66BFBF;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.skill-1{
+    float: left;
+    margin-right: 30px;
+}
+.skill-2{
+    
+    float: right;
+    margin-left: 30px;
+}
+.top-cloud{
+    padding-top: 50px;
+    margin-left: 600px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 450px;
+
+    
+}
+.contact-me{
+width: 40%;
+margin: 40px auto 60px;
+}
+.mountain{
+    
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11ba9e;
+    padding: 14px 22px 15px 21px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #2e959c;
+    text-decoration: none;
+  }
+
